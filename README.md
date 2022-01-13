@@ -1,11 +1,14 @@
 # 07338_SistemPemeriksaanPuskesmas
+
 BERISI SOURCE CODE PROJECT PRAKTIKUM PBO2021
 NAMA : BETHELSANDO GEMILANG WAHYUDI
 NPM : 06.2020.1.07338
 ASLAB : AGAM SULAIMAN ISMAYA
 
 # FITUR :
+
 -Registrasi Pasien
 -Login Pasien
 -Login Dokter 
 -(CRUD Pasien) 
+-Database
